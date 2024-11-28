@@ -1,6 +1,6 @@
 # CS Student Management Tool
 ## Problem Statement
-Computer Science Students often struggle to efficiently manage their coursework and academic/career planning. Tracking and organizing notes, assignments and projects can be particularly challenging due to many tools being overwhelming and often inaccessabile to students especially those new to the computer science field. On top of the heavy fast paste workload, students must plan their academic journey to meet graduation requirements while aligning with their career goals, such as specializing in areas like artificial intelligence, cybersecurity, or software development.
+Computer science students often struggle to efficiently manage their coursework and academic/career planning. Tracking and organizing notes, assignments and projects can be particularly challenging due to many tools being overwhelming and often inaccessabile to students especially those new to the computer science field. On top of the heavy fast paste workload, students must plan their academic journey to meet graduation requirements while aligning with their career goals, such as specializing in areas like artificial intelligence, cybersecurity, or software development.
 Existing often fail to address these challenges and lack the flexibility to adapt to individual needs. Without effective tools, students face disorganization, missed deadlines, and suboptimal course or career decisions, which can impact their academic success and future opportunities.
 
 ### Features
