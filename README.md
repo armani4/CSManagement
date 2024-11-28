@@ -21,9 +21,15 @@ The CS Student Managemenet Tool is designed to help computer science students ef
 
   ## Project Scope
   This project will focus on creating a tool to assist Computer Science students in managing their coursework, academic progression, and project development.
-  ### Project Development Tracker
-  ### Course Material Version Control 
-  ### Curriculum Visualizer 
+
+- **Project Development Tracker**:  
+  A simple system to document and organize projects with milestones and a journal feature to reflect on challenges and solutions.
+
+- **Course Material Organizer**:  
+  A system for organizing notes, assignments, and project files with a simple tagging and search functionality. It will allow students to track their progress through assignments and projects, providing status updates.
+
+- **Curriculum Visualizer**:  
+  A basic visual tool to display completed, ongoing, and eligible courses for a student's degree program. The tool will help track academic progress, prerequisites, and offer recommendations for future courses based on career goals and interests.
 
   ## Technologies
   - Java
