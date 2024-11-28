@@ -1,7 +1,10 @@
 # CS Student Management Tool
 ## Problem Statement
 Computer science students often struggle to efficiently manage their coursework and academic/career planning. Tracking and organizing notes, assignments and projects can be particularly challenging due to many tools being overwhelming and often inaccessabile to students especially those new to the computer science field. On top of the heavy fast paste workload, students must plan their academic journey to meet graduation requirements while aligning with their career goals, such as specializing in areas like artificial intelligence, cybersecurity, or software development.
-Existing often fail to address these challenges and lack the flexibility to adapt to individual needs. Without effective tools, students face disorganization, missed deadlines, and suboptimal course or career decisions, which can impact their academic success and future opportunities.
+Existing tools often fail to address these challenges and lack the flexibility to adapt to individual needs. Without effective tools, students face disorganization, missed deadlines, and suboptimal course or career decisions, which can impact their academic success and future opportunities.
+
+### Project Description
+The CS Student Managemenet Tool is designed to help computer science students efficiently manage their assignments, projects, and academic planning. This tool will provide a simple interface to track assignements, organize resources, and create a personalized plan towards academic success that aligns with their career goals and interest.
 
 ### Features
 1. **Project Development Tracker**  
@@ -21,6 +24,9 @@ Existing often fail to address these challenges and lack the flexibility to adap
 
   ## Project Scope
   This project will focus on creating a tool to assist Computer Science students in managing their coursework, academic progression, and project development.
+  ### Project Development Tracker
+  ### Course Material Version Control 
+  ### Curriculum Visualizer 
 
   ## Technologies
   - Java
